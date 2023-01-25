@@ -71,7 +71,7 @@
     "webpack": "^4.29.6"
   },
   "dependencies": {
-    "@types/react": "^18.8.15",
+    "@types/react": "^18.0.15",
     "@types/react-dom": "^18.0.6",
     "react-spring": "9.0.0-beta.8",
     "resize-observer-polyfill": "^1.5.1",
