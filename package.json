@@ -35,7 +35,7 @@
   "peerDependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "react-gesture-responder": "^2.1.0"
+    "react-gesture-responder": "nguiard/react-gesture-responder"
   },
   "devDependencies": {
     "@babel/core": "^7.4.0",
