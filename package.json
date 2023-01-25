@@ -33,8 +33,8 @@
     "url": "https://github.com/bmcmahen/react-grid-dnd.git"
   },
   "peerDependencies": {
-    "react": "^16.8.6",
-    "react-dom": "^16.8.6",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
     "react-gesture-responder": "^2.1.0"
   },
   "devDependencies": {
@@ -71,8 +71,8 @@
     "webpack": "^4.29.6"
   },
   "dependencies": {
-    "@types/react": "^16.8.10",
-    "@types/react-dom": "^16.8.3",
+    "@types/react": "^18.8.15",
+    "@types/react-dom": "^18.0.6",
     "react-spring": "9.0.0-beta.8",
     "resize-observer-polyfill": "^1.5.1",
     "tslib": "^1.9.3"
